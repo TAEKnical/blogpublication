@@ -244,7 +244,7 @@ ALB 밑 단 타겟들의 논리적 그룹
 
 Target Group에 포함 가능한 리소스 : EC2, ECS, EKS, IP Address, Lambda
 
-![image-20201223171501728](C:\Users\MZC01-JTLEE\AppData\Roaming\Typora\typora-user-images\image-20201223171501728.png)
+![alb](img/AWS 네트워크의 이해(AWS Builders 200)/alb.PNG)
 
 ## 2. NLB
 
