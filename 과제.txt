@@ -1,0 +1,15 @@
+VPC
+- vpn세팅하고, private ip만으로 통신
+- vpc endpoints(불필요한 트래픽, private 망)
+- vpc flow
+- NACL vs SG
+- limit / limit 해제
+- transit gateway vs vpn gateway
+- cgw(openvpn, 내 PC에서만)
+EC2
+- 인스턴스 유형, 각각 어떤 서비스에 주로 사용되는지
+- AMI(기존 인스턴스에 어떤 영향이 있는지)
+- EBS(gp, io, magnetic)
+- EFS,FSX(프로토콜)
+- ENI
+LB,AS,RDS
