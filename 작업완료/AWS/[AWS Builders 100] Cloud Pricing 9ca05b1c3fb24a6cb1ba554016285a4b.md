@@ -1,6 +1,6 @@
-# [AWS Builders 100] 클라우드 비용
+# [AWS Builders 100] Cloud Pricing
 
-[AWS Builders 100] 클라우드 비용, 어떻게 줄일 수 있을까?
+# [AWS Builders 100] 클라우드 비용, 어떻게 줄일 수 있을까?
 
 # 목차
 
@@ -53,19 +53,19 @@ AWS 요금의 디테일한 리스트는 '비용 및 사용량 보고서 (CUR) '�
 
 비용 최적화, 성능, 보안, 내결함성 서비스 한도까지 다섯개 항목으로 점검한다.
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled.png)
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%201.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%201.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%201.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%201.png)
 
 초록색은 문제가 없다는 의미, 노란색은 점검이 필요한 항목, 빨간색은 지금 즉시 조치가 필요한 항목
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%202.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%202.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%202.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%202.png)
 
 기본적으로 Trust Advisor는 무료로 제공하는 서비스이며, 기본 서비스 이상을 이용하면 더 상세한 분석 결과를 스프레드시트 파일로 받아볼 수 있다.
 
 ## 비용 탐색기(Cost Explorer)
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%203.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%203.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%203.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%203.png)
 
 AWS 비용을 시각화해서 빠르게 비용 문제점을 한 눈에 파악할 수 있다.
 
@@ -89,17 +89,17 @@ AWS는 거의 모든 리소스에 태깅이 가능하며 태깅은 비용관리�
 
 ## Right Sizing
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%204.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%204.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%204.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%204.png)
 
 AWS 인스턴스는 옷 사이즈처럼 구분되어 있다.
 
 과거 온프레미스 환경에서는 언제나 peak를 예상하고 리소스를 크게 잡아서 인프라를 구축했지만 클라우드 환경에서는 오토스케일링을 통해 수요와 맞춰 최소한의 비용으로 애플리케이션 needs를 충족할 수 있다.
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%205.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%205.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%205.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%205.png)
 
 AWS에서도 직접 돌려보고 확인한 뒤 Right Sizing 하기를 권장하고 있다.
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%206.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%206.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%206.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%206.png)
 
 고객의 워크로드에 맞춘 다양한 인스턴스 타입 제공
 
@@ -131,7 +131,7 @@ Instance Scheduler도 CloudFormation으로 관리되기 떄문에 실행이 빠�
 
 ---
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%207.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%207.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%207.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%207.png)
 
 세 번째 단계는 AWS에서 제공하는 다양한 가격 옵션을 설정하는 것이다.
 
@@ -151,9 +151,9 @@ AWS에서는 온디맨드, 예약 인스턴스, 스팟 인스턴스, 전용 인�
 - 기간은 1년 또는 3년 중 선택 가능
 - 전체 선결제, 부분 선결제, 선결제 없이 약정 할인 세 가지 결제 옵션
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%208.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%208.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%208.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%208.png)
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%209.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%209.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%209.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%209.png)
 
 **[3] 스팟 인스턴스**
 
@@ -197,7 +197,7 @@ EC2 온디맨드 대비 최대 90% 저렴하며 일시 중지, 휴면, 재시작
 
 **[1] 오브젝트 스토리지(S3) 클래스 비교**
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2010.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2010.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2010.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2010.png)
 
  
 
@@ -213,7 +213,7 @@ Glacier : 자주 액세스하지 않는 아카이빙용
 
 **[2] 블록 스토리지(EBS) 클래스 비교**
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2011.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2011.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2011.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2011.png)
 
 EBS는 오브젝트 스토리지보다 비용이 더 높다. 따라서 EBS 사용 전에 해당 워크로드가 IOPS가 중요한지, Throuput이 중요한지 확인해야 한다.
 
@@ -243,7 +243,7 @@ Lambda로 서버리스 아키텍처 구성
 
 지표는 올 해 IT 예산이 될 수도, 6개월 AWS 사용량이 될 수도 있다.
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2012.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2012.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2012.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2012.png)
 
 예를 들어
 
@@ -257,6 +257,6 @@ Lambda로 서버리스 아키텍처 구성
 
 하지만 실제 태깅이 되어있지 않아 무슨 목적으로 사용되고 있는지 모르는 리소스가 18%나 있으므로 개선이 필요
 
-![%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2013.png](%5BAWS%20Builders%20100%5D%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%87%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2013.png)
+![%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2013.png](%5BAWS%20Builders%20100%5D%20Cloud%20Pricing%209ca05b1c3fb24a6cb1ba554016285a4b/Untitled%2013.png)
 
 이렇게 타겟을 설정하여 현황을 분석한 후, 최소한의 노력으로 큰 비용 절감 효과를 볼 수 있는 것 부터 차근차근 현재 가능한 조치(Action)를 취하는 것을 권장한다.
