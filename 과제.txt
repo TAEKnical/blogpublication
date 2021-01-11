@@ -13,3 +13,5 @@ EC2
 - EFS,FSX(프로토콜)
 - ENI
 LB,AS,RDS
+
+**FSX
